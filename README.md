@@ -36,7 +36,7 @@ Access the application via http://localhost:3003.
 1. Install Mongodb Compass
 Reference - https://www.mongodb.com/docs/compass/current/install/
 
-2. Set Replica Set for Mongodb Compass
+2. Set Replica Set for Mongodb Compass [Mandatory for live updates]
 [Replica Set Readme](REPLICASET.md)
 
 #
