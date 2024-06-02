@@ -50,7 +50,7 @@ Reference - https://www.mongodb.com/docs/compass/current/install/
 
 
 ## Video for reference
-![settlement_process](./GithubImages/Screenshare%20-%202024-06-03%2012_26_28%20AM.mp4)
+![settlement_process](./GithubImages/settlement_process.mp4)
 
 
 ## Screenshots for reference
