@@ -49,6 +49,10 @@ Reference - https://www.mongodb.com/docs/compass/current/install/
 `Tailwind`,
 
 
+## Video for reference
+![settlement_process](./GithubImages/Screenshare%20-%202024-06-03%2012_26_28%20AM.mp4)
+
+
 ## Screenshots for reference
 
 ### Party Selection
